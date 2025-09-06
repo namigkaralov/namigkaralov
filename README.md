@@ -4,7 +4,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Namig Karalov</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Linux System Administrator from Azerbaijan</h3>
 
 
 - 🌱 I’m currently learning **Linux Engineering, DevOps**

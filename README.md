@@ -1,3 +1,8 @@
+
+![MasterHead](https://jasoneckert.github.io/myblog/linux-fun-facts/linux-banner.png#center)
+
+
+
 <h1 align="center">Hi 👋, I'm Namig Karalov</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 

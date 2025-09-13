@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Linux Engineering, DevOps**
 
-- 👨‍💻 All of my projects are available at [https://gitlab.com/namigkaralov/linux-engineer](https://gitlab.com/namigkaralov/linux-engineer)
+- 👨‍💻 All of my projects are available at #LOADING
 
 - 📫 How to reach me **namigkaralov@gmail.com**
 
